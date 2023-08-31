@@ -6,7 +6,7 @@
 
 typedef unsigned char byte;
 typedef uint8_t       ui8;
-typedef int8_t        i8;
+typedef int16_t       i16;
 
 #define BYTE_TO_BINARY_PATTERN "%c%c%c%c%c%c%c%c"
 #define BYTE_TO_BINARY(byte)  \
